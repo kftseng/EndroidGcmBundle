@@ -1,5 +1,5 @@
 {
-    "name": "endroid/gcm-bundle",
+    "name": "kftseng/gcm-bundle",
     "description": "Endroid Google Cloud Messaging Bundle for Symfony",
     "keywords": ["endroid", "gcm", "push", "notification", "notifications", "google", "cloud", "messaging", "symfony", "bundle"],
     "homepage": "https://github.com/endroid/EndroidGcmBundle",
